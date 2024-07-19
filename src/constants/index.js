@@ -175,8 +175,8 @@ const testimonials = [
     testimonial:
       "Tiwari is an exceptional Frontend Developer, consistently delivering high-quality solutions and enhancing user experiences. Highly recommended.",
     name: "Arun Kutty",
-    designation: "CFO",
-    company: "Healthipeople",
+    designation: "Principal Software Engineer",
+    company: "Oracle",
     image:
       "https://gochronicles.com/content/images/size/w300/2021/04/profile.jpeg",
   },
@@ -184,18 +184,18 @@ const testimonials = [
     testimonial:
       "Brilliant teen, exceptionally working in every terms and delivers what team needs.",
     name: "Nikhil Akki",
-    designation: "Software Developer at Deloitte",
+    designation: "Manager",
     company: "Deloitte",
     image: "https://avatars.githubusercontent.com/u/17634231?v=4",
   },
   {
     testimonial:
       "After Abhishek optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Nikhil Joshi",
-    designation: "Founder",
-    company: "456 Enterprises",
+    name: "Swaraj Panigrahi",
+    designation: "Lead Software Engineer",
+    company: "JP Morgan Chase & Co",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnV0G2d8wxaZlzlDvbOgcXhR8zop_U2Mi6uw&usqp=CAU",
+      "https://media.licdn.com/dms/image/C4E03AQHswjzO4Pit8w/profile-displayphoto-shrink_800_800/0/1522567963559?e=1726704000&v=beta&t=LRVlDKR61AjjFHKiuzy6oMlmNgWi2DVmwt8BdToOTdI",
   },
 ];
 
